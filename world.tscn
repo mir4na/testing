@@ -12,7 +12,7 @@ position = Vector2(111, 84)
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1837447896]
 
 [node name="Icon" type="Sprite2D" parent="StaticBody2D" unique_id=1729217966]
-position = Vector2(732, 432)
+position = Vector2(735, 432)
 texture = ExtResource("1_f3sb7")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=379867541]
