@@ -12,11 +12,11 @@ position = Vector2(111, 84)
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1837447896]
 
 [node name="Icon" type="Sprite2D" parent="StaticBody2D" unique_id=1729217966]
-position = Vector2(700, 432)
+position = Vector2(720, 432)
 texture = ExtResource("1_f3sb7")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=379867541]
-position = Vector2(705.25, 430.25)
+position = Vector2(700.25, 430.25)
 shape = SubResource("RectangleShape2D_fj7yv")
 
 [node name="Player" parent="." unique_id=1416762119 instance=ExtResource("2_fj7yv")]
